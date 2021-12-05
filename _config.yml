@@ -12,3 +12,5 @@ ga_id: G-ZY66C08954
 
 markdown: kramdown
 
+
+theme: jekyll-theme-time-machine
