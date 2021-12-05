@@ -1,7 +1,15 @@
 ---
-- name: Security
-  tag: SEC
-- name: Privacy
-  tag: PRIV
-- name: Crypto
-  tag: CRYPTO
+- name: Theory
+  tag: THEORY
+- name: Practical
+  tag: PRACT
+- name: Applied
+  tag: APPLIED
+- name: CORE A*
+  tag: COREAS
+- name: CORE A
+  tag: COREA
+- name: CORE B
+  tag: COREB
+- name: CORE (Others)
+  tag: COREO

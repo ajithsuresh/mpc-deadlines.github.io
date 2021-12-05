@@ -1,14 +1,14 @@
-title: Security and Privacy Conference Deadlines
-description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+title: MPC Conference Deadlines
+description: Countdowns to top MPC conference deadlines.
+author: Ajith Suresh
 
-domain: "sec-deadlines.github.io"
+domain: "mpc-deadlines.github.io"
 baseurl: ""
 
-twitter_username: hiddenmarkov
-github_username: sec-deadlines
-github_repo: sec-deadlines
-ga_id: UA-104921371-1
+twitter_username: Ajith_Suresh92
+github_username: mpc-deadlines
+github_repo: mpc-deadlines
+ga_id: G-ZY66C08954
 
 markdown: kramdown
 
